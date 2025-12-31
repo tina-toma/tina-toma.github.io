@@ -24,4 +24,3 @@ Building toward data product roles.
 
 - GitHub: https://github.com/tina-toma
 - LinkedIn: https://www.linkedin.com/in/tinatoma/
-
