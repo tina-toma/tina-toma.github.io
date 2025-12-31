@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Tina Toma"
-permalink: /
 author_profile: true
+classes: wide
 ---
 
 Senior Decision Support Analyst focused on metrics, analytics, and data systems.  
